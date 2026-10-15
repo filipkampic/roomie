@@ -30,3 +30,13 @@ Roomie centralizes all shared responsibilities and information in one app, acces
 - **Navigation** — Navigation Compose
 - **Async** — Coroutines + StateFlow
 - **Local storage** — DataStore Preferences
+
+## Screenshots
+
+| Home | Chores | Expenses |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="220" alt="Home"/> | <img src="screenshots/chores.png" width="220" alt="Chores"/> | <img src="screenshots/expenses.png" width="220" alt="Expenses"/> |
+
+| Shopping | Notifications |
+| :---: | :---: |
+| <img src="screenshots/shopping.png" width="220" alt="Shopping"/> | <img src="screenshots/notifications.png" width="220" alt="Notifications"/> |
